@@ -2,9 +2,9 @@
 # /*
 #  * @file prueba_1.py
 #  * @author Oscar Gomez Fuente <oscargomezf@gmail.com>
-#  * @modified Oscar Gomez Fuente <oscargomezf@gmail.com>
-#  * @version 7350ff4
-#  * @date 2024-12-11 18:31:53 
+#  * @modified
+#  * @version 1cb080d
+#  * @date 2024-12-11 18:32:03 
 #  * @section DESCRIPTION
 #  *     Script to test git_propset.py
 #  */
