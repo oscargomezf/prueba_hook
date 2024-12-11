@@ -2,7 +2,6 @@
 # /*
 #  * @autor Oscar Gomez Fuente <oscargomezf@gmail.com>
 #  * @file prueba_1.py
-#  * @author Oscar Gomez Fuente <oscargomezf@gmail.com>
 #  * @modified Oscar Gomez Fuente <oscargomezf@gmail.com>
 #  * @date 2024-12-11 18:47:43 
 #  * @version
