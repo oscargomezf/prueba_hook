@@ -10,4 +10,4 @@
 #  */
 
 if __name__ == "__main__":
-    print('Esta es un prueba para ver si funciona el script: git_propset.py')
+    print('Esta es otra prueba para ver si funciona el script: git_propset.py')
