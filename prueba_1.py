@@ -2,8 +2,8 @@
 # /*
 #  * @file prueba_1.py
 #  * @author Oscar Gomez Fuente <oscargomezf@gmail.com>
-#  * @modified
-#  * @date
+#  * @modified Oscar Gomez Fuente <oscargomezf@gmail.com>
+#  * @date 2024-12-11 18:36:53 
 #  * @version
 #  * @section DESCRIPTION
 #  *     Script to test git_propset.py
