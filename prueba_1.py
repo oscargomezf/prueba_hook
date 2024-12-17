@@ -1,10 +1,10 @@
 #!/usr/bin/python
 # /*
 #  * @autor Oscar Gomez Fuente <oscargomezf@gmail.com>
-#  * @file prueba_1.py
-#  * @modified Oscar Gomez Fuente <oscargomezf@gmail.com>
-#  * @date 
-#  * @version ce6fa8b
+#  * @file
+#  * @modified
+#  * @date
+#  * @version
 #  * @section DESCRIPTION
 #  *     Script to test git_propset.py
 #  */
